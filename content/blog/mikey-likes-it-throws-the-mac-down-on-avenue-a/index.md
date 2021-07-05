@@ -2,7 +2,7 @@
 title: Mikey Likes It Throws the Mac Down on Avenue A
 date: 2021-02-27 00:00:00 +0000
 description:  Warning - Schmaltzy post about the power of love ahead.
-img: ./MikeyLikesIt_Smallest.jpeg # Add image post (optional)
+img: ./MikeyLikesIt_Smallest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Alphabet City, ice cream] # add tag
 ---
