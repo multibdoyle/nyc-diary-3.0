@@ -3,7 +3,7 @@ title: Pops Eat-Rite Has Me Hooked on Vegan Food
 date: 2021-01-23 00:00:00 +0000
 description: Just a good ol' fashioned genetically engineered soy burger with carrot-and-tomato cheese sauce...
 img: ./PopsBurgerandFries_Small.jpeg # Add image post (optional)
-tags: [pizza, West Village] # add tag
+tags: [burgers, vegetarian, Alphabet City] # add tag
 ---
 Pops Eat-Rite is a new school burger joint following an old school template. Their core specialty — smashed-and-griddled plant-based burgers — is set in the tradition of fast-casual grandaddies like McDonalds or In-N-Out, with the sort of primary-colored and bold-lined aesthetic that could only come about from a fast food spot born on St. Mark’s Place.
 

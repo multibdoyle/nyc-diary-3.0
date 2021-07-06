@@ -85,7 +85,7 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `./static/skeleton_praying_new_tn.jpg`, // This path is relative to the root of the site.
+        icon: `./static/skeleton_praying.png`, // This path is relative to the root of the site.
       },
     },
     // `gatsby-plugin-offline`,
