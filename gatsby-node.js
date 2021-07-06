@@ -40,6 +40,8 @@ exports.createPages = ({ graphql, actions }) => {
 
     // Create blog posts pages.
     const posts = result.data.allMarkdownRemark.edges
+    const postsPerPage = 10
+    const numPages = Math.ceil(posts.length / postsPerPage)
 
     posts.forEach((post, index) => {
       const previous = index === posts.length - 1 ? null : posts[index + 1].node
@@ -57,8 +59,7 @@ exports.createPages = ({ graphql, actions }) => {
     })
 
     // Create blog post list pages
-    const postsPerPage = 10
-    const numPages = Math.ceil(posts.length / postsPerPage)
+  
 
     Array.from({ length: numPages }).forEach((_, i) => {
       createPage({
